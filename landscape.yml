@@ -1080,6 +1080,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/rensselaer-polytechnic-institute
           - item:
+            name: Siksha 'O' Anusandhan (member)
+            homepage_url: https://soa.ac.in/
+            logo: siksha_o_anusandhan.svg
+            description: Siksha 'O' Anusandhan (SOA) Deemed to be University, located in Bhubaneswar, Odisha, is a prestigious institution accredited with an 'A++' grade by NAAC. Recognized internationally by QS and THE World University Rankings 2023, SOA offers a wide range o...
+            organization:
+              name: Siksha 'O' Anusandhan
+          - item:
             name: Texas A&M University (member)
             homepage_url: https://tamu.edu/
             logo: texas_a_m_university.svg
