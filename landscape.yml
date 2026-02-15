@@ -1087,6 +1087,16 @@ landscape:
             organization:
               name: Siksha 'O' Anusandhan
           - item:
+            name: SKOPOS INDIA FOUNDATION (member)
+            homepage_url: https://incoban.org/
+            logo: skopos_india_foundation.svg
+            description: InCoBAN is an ecosystem that possesses leadership qualities as an industry improvement initiative, positioned to tackle the absolute challenges that the Indian Construction Sector grapples with, impacting the livelihoods of over 60 to 70 million indivi...
+            organization:
+              name: SKOPOS INDIA FOUNDATION
+              linkedin: https://www.linkedin.com/company/incoban
+            extra:
+              linkedin_url: https://www.linkedin.com/company/incoban
+          - item:
             name: Texas A&M University (member)
             homepage_url: https://tamu.edu/
             logo: texas_a_m_university.svg
