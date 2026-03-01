@@ -1045,6 +1045,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/technmm3x
           - item:
+            name: Messiah University (member)
+            homepage_url: https://messiah.edu/
+            logo: messiah_university.svg
+            description: Messiah College is a private Christian college of the liberal arts and applied arts and sciences located in Mechanicsburg, Pennsylvania. Messiah College was founded in 1909 by the Brethren in Christ Church, and was originally called Messiah Bible School and Missionary Training Home. Originally located in Harrisburg, Pa., in the home of Messiah's first president, Samuel Rogers (S.R.) Smith, a local businessman and leader in the Brethren in Christ Church, the school was moved to the village of Grantham in 1911 following the construction of the campus' first building, Old Main. By the 1950s, the school offered four-year college programs and accordingly in 1951 it changed its name to Messiah College. Messiah discontinued its high school program in 1959 and added liberal arts programs during this period. It was accredited as a four-year college in 1963, and continued to expand its liberal arts programs. Even though it is no longer owned by the Brethren in Christ Church, Messiah continues to be influenced by its traditions primarily in the Anabaptist, but also the Pietist and Wesleyan holiness movements. Today, Messiah College is a nondenominational Christian college, with a faith base that is broadly evangelical and includes students and employees from a variety of denominations and Christian faith traditions.
+            crunchbase: https://www.crunchbase.com/organization/messiah-college
+            twitter: https://twitter.com/messiahsab
+            extra:
+              linkedin_url: https://www.linkedin.com/edu/messiah-college-20111
+          - item:
             name: Monash University (member)
             homepage_url: https://monash.edu/
             logo: monash_university.svg
