@@ -1063,13 +1063,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/monash-university
           - item:
-            name: NIPA (member)
-            homepage_url: https://nipa.kr/
-            logo: nipa.svg
-            description: ICT산업 경쟁력 제고와 성장동력 육성으로 경제발전과 국민 삶의 질 향상에 기여하는 ICT 산업혁신 전문기관
-            crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
-            twitter: https://twitter.com/NIPAkr
-          - item:
             name: One Fact Foundation (member)
             homepage_url: https://onefact.org/
             logo: one_fact_foundation.svg
